@@ -6,7 +6,7 @@ using namespace std;
 // O Novo 'DEFINE MAX = 200001'
 const int MAX = 200001;
 
-// Cria uma estrututura booleana oara guardar os visinhos visitados
+// Cria uma estrututura booleana Para guardar os visinhos visitados
 bitset<MAX> visited;
 
 //cria uma array estatica de valores

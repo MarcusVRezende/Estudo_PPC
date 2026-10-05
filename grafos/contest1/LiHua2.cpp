@@ -12,7 +12,7 @@ int contavisinhos(long long n, long long m, long long x, long long y){
     } 
     else if(x == 1 || y == m ){
         visinhos--;
-    } Design emocional então considera como esse impacto na hora de usar esses interfaces visceral aparência impacto imediato desse design emocional facilita a vida de manter o cliente e o guarda de centro comportamental facilidade prazer reflexivo significal e cultural tem uma série de dous enormes é muito difícil os nossos autores mais diferentes
+    }
     else{
         visinhos--;
     }
